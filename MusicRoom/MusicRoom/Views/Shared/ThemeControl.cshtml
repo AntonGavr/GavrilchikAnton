@@ -1,0 +1,8 @@
+﻿<ul class="dropdown-menu">
+    <li>
+        @Html.ActionLink("Light", "ChangeTheme", "Home", new { theme = "_LightLayout.cshtml", returnUrl = this.Request.RawUrl}, null)
+    </li>
+    <li>
+        @Html.ActionLink("Dark", "ChangeTheme", "Home", new {  theme = "_Layout.cshtml", returnUrl = this.Request.RawUrl}, null)
+    </li>
+</ul>

@@ -1,0 +1,67 @@
+﻿@model MusicRoom.Models.IndexLuceneTrackModel
+@using MusicRoom.Models
+<div class="col_12">
+    <fieldset>
+        @using (Html.BeginForm("Search", "Search"))
+        {
+
+            @Html.AutocompleteFor(m => m.SearchTerm, "Autocomplete", "Home")
+            @Html.DropDownListFor(m => m.SearchField, Model.SearchFieldList.Select(x => new SelectListItem { Text = x.Text, Value = x.Value }),
+          new { style = "width:150px;" })
+
+
+            <div class="content_right margin_top8">
+                <input type="submit" value="Search" />
+            </div>
+
+            <div class="clear"></div>
+        }
+    </fieldset>
+</div>
+
+<div class="col_8">
+    <fieldset>
+
+        @if (Model.SearchIndexData.Any())
+        {
+
+            <table class="table table-bordered table-striped table-hover" style="width: 85%">
+                <audio id="player" controls="controls">
+                    <source id="mp3_src" src="" type="audio/mp3" />
+                    Your browser does not support the audio element.
+                </audio>
+                <thead>
+                    <tr>
+                        <th>Автор</th>
+                        <th>Название песни</th>
+                        <th>Лайки</th>
+                        <th>В плейлист</th>
+                        <th>Скачать</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var track in Model.SearchIndexData)
+                    {
+                        <tr>
+                            <td class="track" data-location="/UploadedFiles/@track.TrackPath">@track.Author</td>
+                            <td class="track" data-location="/UploadedFiles/@track.TrackPath">@track.TrackName</td>
+                            <td>
+                                <button class="Like btn btn-primary" id="@track.Id">@track.Like Like</button></td>
+                            <td>
+                                @Html.ActionLink("+", "AddToPlayList", "PlayLists", new { trackId = track.Id, returnUrl = this.Request.RawUrl }, new { @class = "btn btn-primary" })
+                            </td>
+                            <td>
+                                @Html.ActionLink("Download", "Download", "Search", new { id = track.Id }, new { @class = "btn btn-primary" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <text><br />
+            No search index records found...<br /></text>
+        }
+    </fieldset>
+</div>

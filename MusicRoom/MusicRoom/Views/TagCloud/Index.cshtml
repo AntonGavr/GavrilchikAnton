@@ -1,0 +1,10 @@
+﻿@model MusicRoom.Models.MusicRoomContext
+
+<canvas width="250" height="300" id="myCanvas">
+    <div id="tagcloud">
+    @foreach (var tag in Model.Tags)
+    {
+        @Html.ActionLink(tag.TagName, "Search", "Search", new { searchTerm = tag.TagName, searchField = "Tags", searchDefault = "false" }, null)
+    }
+        </div>
+</canvas>

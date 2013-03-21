@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MusicRoom.Models.Statistic>
+@{
+    ViewBag.Title = "Graphics";
+}
+<link href="@Url.Content("~/Content/morris.css")" rel="stylesheet" type="text/css" />
+<script src="https://raw.github.com/DmitryBaranovskiy/raphael/300aa589f5a0ba7fce667cd62c7cdda0bd5ad904/raphael-min.js"></script>
+<script src=@Url.Content("~/Scripts/morris.js")></script>
+<script type="text/javascript">
+    $(function() {
+        var day_data = [
+            @foreach (var item in Model)
+            {
+                <text>{"period": "@(((DateTime)item.Time).ToString("yyyy-MM-dd"))", "CountLikes": @item.CountLikes },</text>
+            }
+        ];
+
+        Morris.Line({
+            element: 'graph',
+            data: day_data,
+            xkey: 'period',
+            ykeys: ['CountLikes'],
+            labels: ['CountLikes']
+        });
+    });
+</script>
+<h2>Graphics</h2>
+
+<div id="graph"></div>

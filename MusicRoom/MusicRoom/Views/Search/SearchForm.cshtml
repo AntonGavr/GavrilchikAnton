@@ -1,0 +1,8 @@
+﻿@{
+    ViewBag.Title = "Musick Room";
+}
+
+@using (Html.BeginForm("Index", "Search", FormMethod.Post, new { @class = "navbar-search pull-left" }))
+{
+    <input type="text" class="search-query span2" id="searchTerm" name="searchTerm" placeholder="Search">
+}

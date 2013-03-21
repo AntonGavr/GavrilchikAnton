@@ -1,0 +1,8 @@
+﻿<ul class="dropdown-menu">
+    <li>
+        @Html.ActionLink("English", "ChangeCulture", "Home", new { lang = "en", returnUrl = this.Request.RawUrl}, null)
+    </li>
+    <li>
+        @Html.ActionLink("Русский", "ChangeCulture", "Home", new { lang = "ru", returnUrl = this.Request.RawUrl}, null)
+    </li>
+</ul>

@@ -1,0 +1,344 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Postal.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\RazorEngine.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebMatrix.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\RazorEngine.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\RazorEngine.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebMatrix.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.ru.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\obj\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Lucene.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Lucene.Net.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\Lucene.Net.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Postal.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.ru.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Postal.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.ru.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Postal.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Lucene.Net.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\RazorEngine.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.ru.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoomV1.3\MusicRoom\MusicRoom\MusicRoom\MusicRoom\obj\Debug\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\DevTrends.MvcDonutCaching.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\WebAPI.OutputCache.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\MarkdownSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\MarkdownSharp.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\MarkdownSharp.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\PagedList.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\MusicRoom\bin\PagedList.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\MusicRoom.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\MusicRoom.pdb
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\ru\MusicRoom.resources.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DevTrends.MvcDonutCaching.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Lucene.Net.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\MarkdownSharp.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\PagedList.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Postal.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\RazorEngine.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\taglib-sharp.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebActivatorEx.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebAPI.OutputCache.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebMatrix.Data.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Lucene.Net.pdb
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Lucene.Net.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\MarkdownSharp.pdb
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\MarkdownSharp.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\PagedList.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\RazorEngine.pdb
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\RazorEngine.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebMatrix.Data.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\bin\policy.2.0.taglib-sharp.config
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.resources
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.Resources.Views.Shared.SharedString.ru.resources
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.dll
+C:\Users\Admin\Desktop\Сайт\Complite\MusicRoom\MusicRoom\obj\Debug\MusicRoom.pdb

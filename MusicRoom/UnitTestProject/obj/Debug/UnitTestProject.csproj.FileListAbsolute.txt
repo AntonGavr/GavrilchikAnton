@@ -1,0 +1,143 @@
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll.config
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.pdb
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Postal.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\taglib-sharp.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\WebGrease.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.pdb
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.pdb
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.pdb
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\bin\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.dll
+C:\Users\Admin\Desktop\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.pdb
+I:\MusicRoom\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+I:\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll.config
+I:\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.pdb
+I:\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\Postal.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\PagedList.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\taglib-sharp.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\WebGrease.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\Antlr3.Runtime.dll
+I:\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.pdb
+I:\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.pdb
+I:\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\PagedList.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.pdb
+I:\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.pdb
+I:\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.xml
+I:\MusicRoom\UnitTestProject\bin\Debug\ru\MusicRoom.resources.dll
+I:\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.Test.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Postal.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\taglib-sharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MusicRoom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Lucene.Net.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\MarkdownSharp.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\RazorEngine.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\ru\MusicRoom.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\obj\Debug\MusicRoom.Test.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\PagedList.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MusicRoom\UnitTestProject\bin\Debug\PagedList.xml

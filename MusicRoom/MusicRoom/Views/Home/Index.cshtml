@@ -1,0 +1,67 @@
+﻿@using MusicRoom.Models
+@model PagedList.IPagedList<MusicRoom.Models.Track>
+@{
+    ViewBag.Title = "Home Page";
+}
+<table class="table table-bordered table-striped table-hover" style="width: 85%">
+    <audio id="player" controls="controls">
+        <source id="mp3_src" src="" type="audio/mp3" />
+        Your browser does not support the audio element.
+    </audio>
+    <thead>
+        <tr>
+            <th>Автор</th>
+            <th>Название песни</th>
+            <th>Лайки</th>
+            <th>В плейлист</th>
+            <th>Скачать</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var track in Model)
+        {
+            <tr>
+                <td class="track" data-location="/UploadedFiles/@track.FileName">@track.Author</td>
+                <td class="track" data-location="/UploadedFiles/@track.FileName">@track.TrackName</td>
+                <td>
+                    <button class="Like btn btn-primary" id="@track.TrackId">@track.Like Like</button></td>
+                <td>
+                    @Html.ActionLink("+", "AddToPlayList", "PlayLists", new { trackId = track.TrackId, returnUrl = this.Request.RawUrl }, new { @class = "btn btn-primary" })
+                </td>
+                <td>
+                    @Html.ActionLink("Download", "Download", "Search", new { id = track.TrackId }, new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+    of @Model.PageCount
+
+    @if (Model.HasPreviousPage)
+    {
+        @Html.ActionLink("<<", "Index", "Home", new { page = 1 }, null)
+        @Html.Raw(" ")
+        @Html.ActionLink("Prev", "Index", "Home", new { page = Model.PageNumber - 1 }, null)
+    }
+    else
+    {
+        @:<<
+        @Html.Raw(" ");
+        @:Prev
+        }
+
+    @if (Model.HasNextPage)
+    {
+        @Html.ActionLink("Next", "Index", "Home", new { page = Model.PageNumber + 1 }, null)
+        @Html.Raw(" ")
+        @Html.ActionLink(">>", "Index", "Home", new { page = Model.PageCount }, null)
+    }
+    else
+    {
+        @:Next
+        @Html.Raw(" ")
+        @:D>
+    }
+</div>

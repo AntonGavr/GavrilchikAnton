@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Admin Panel";
+}
+
+
+@foreach (var u in ViewBag.Users)
+{
+    if (ViewContext.HttpContext.User.Identity.Name != u.UserName)
+    {
+    <p>@u.UserName @u.Email @Html.ActionLink("Редактировать", "Edit", new {id = u.UserId}) @Html.ActionLink("Удалить", "Delete", new {id = u.UserId})</p>
+    }
+}
+
+<aside>
+    <ul>
+        <li>@Html.ActionLink("Домашняя страница", "Index", "Home")</li>
+    </ul>
+</aside>

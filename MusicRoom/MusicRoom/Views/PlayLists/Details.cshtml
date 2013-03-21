@@ -1,0 +1,29 @@
+@model MusicRoom.Models.PlayList
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>PlayList</legend>
+
+    <div class="display-label">UserId</div>
+    <div class="display-field">@Model.UserId</div>
+
+    <div class="display-label">TrackPath</div>
+    <div class="display-field">@Model.TrackPath</div>
+
+    <div class="display-label">TrackName</div>
+    <div class="display-field">@Model.TrackName</div>
+
+    <div class="display-label">Author</div>
+    <div class="display-field">@Model.Author</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.PlayListId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

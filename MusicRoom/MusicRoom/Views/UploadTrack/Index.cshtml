@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "UploadTrack";
+}
+
+ <script src="@Url.Content("~/Scripts/jquery.filedrop.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm("Index", "UploadTrack", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    { 
+        <label for="file">Upload Music:</label>
+        <input type="file" name="file" id="file" />
+        <input type="submit" value="Upload Music" />
+    }

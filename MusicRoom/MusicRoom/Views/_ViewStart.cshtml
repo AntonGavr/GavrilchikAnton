@@ -1,0 +1,12 @@
+﻿@{
+    var layoutName = "";
+    if (Request.Cookies["themeName"] != null)
+    {
+        layoutName = "~/Views/Shared/" + Server.HtmlEncode(Request.Cookies["themeName"].Value);
+    }
+    else 
+    {
+        layoutName = "~/Views/Shared/_Layout.cshtml";
+    }
+    Layout = layoutName;
+}
